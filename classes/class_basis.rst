@@ -306,7 +306,7 @@ Constructor Descriptions
 
 :ref:`Basis<class_Basis>` **Basis**\ (\ ) :ref:`🔗<class_Basis_constructor_Basis>`
 
-Constructs a **Basis** identical to :ref:`IDENTITY<class_Basis_constant_IDENTITY>`.
+Constructs a **Basis** where each column is a zero vector.
 
 \ **Note:** In C#, this constructs a **Basis** with all of its components set to :ref:`Vector3.ZERO<class_Vector3_constant_ZERO>`.
 
